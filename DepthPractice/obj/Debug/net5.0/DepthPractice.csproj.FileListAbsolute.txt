@@ -1,0 +1,16 @@
+/home/shakibxat/RiderProjects/Practice/DepthPractice/bin/Debug/net5.0/DepthPractice
+/home/shakibxat/RiderProjects/Practice/DepthPractice/bin/Debug/net5.0/DepthPractice.deps.json
+/home/shakibxat/RiderProjects/Practice/DepthPractice/bin/Debug/net5.0/DepthPractice.runtimeconfig.json
+/home/shakibxat/RiderProjects/Practice/DepthPractice/bin/Debug/net5.0/DepthPractice.runtimeconfig.dev.json
+/home/shakibxat/RiderProjects/Practice/DepthPractice/bin/Debug/net5.0/DepthPractice.dll
+/home/shakibxat/RiderProjects/Practice/DepthPractice/bin/Debug/net5.0/ref/DepthPractice.dll
+/home/shakibxat/RiderProjects/Practice/DepthPractice/bin/Debug/net5.0/DepthPractice.pdb
+/home/shakibxat/RiderProjects/Practice/DepthPractice/obj/Debug/net5.0/DepthPractice.csproj.AssemblyReference.cache
+/home/shakibxat/RiderProjects/Practice/DepthPractice/obj/Debug/net5.0/DepthPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/shakibxat/RiderProjects/Practice/DepthPractice/obj/Debug/net5.0/DepthPractice.AssemblyInfoInputs.cache
+/home/shakibxat/RiderProjects/Practice/DepthPractice/obj/Debug/net5.0/DepthPractice.AssemblyInfo.cs
+/home/shakibxat/RiderProjects/Practice/DepthPractice/obj/Debug/net5.0/DepthPractice.csproj.CoreCompileInputs.cache
+/home/shakibxat/RiderProjects/Practice/DepthPractice/obj/Debug/net5.0/DepthPractice.dll
+/home/shakibxat/RiderProjects/Practice/DepthPractice/obj/Debug/net5.0/ref/DepthPractice.dll
+/home/shakibxat/RiderProjects/Practice/DepthPractice/obj/Debug/net5.0/DepthPractice.pdb
+/home/shakibxat/RiderProjects/Practice/DepthPractice/obj/Debug/net5.0/DepthPractice.genruntimeconfig.cache
