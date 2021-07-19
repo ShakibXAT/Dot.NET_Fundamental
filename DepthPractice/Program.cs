@@ -14,6 +14,18 @@ namespace DepthPractice
             
             account.MakeDeposit(100, DateTime.Now, "Friend paid me back");
             Console.WriteLine(account.Balance);
+
+            BankAccount invalidAccount;
+            try
+            {
+                invalidAccount = new BankAccount("invalid", -55);
+            }
+            catch (ArgumentOutOfRangeException e)
+            {
+                Console.WriteLine("Exception caught trying to overdraw");
+                Console.WriteLine((e.ToString()));
+            }
+
         }
     }
 }
